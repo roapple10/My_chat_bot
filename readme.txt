@@ -1,3 +1,5 @@
+Reference
+
 https://www.youtube.com/watch?v=AWvsXxDtEkU
 https://pypi.org/project/SpeechRecognition/
 https://pypi.org/project/pyttsx3/
@@ -12,13 +14,3 @@ https://alphacephei.com/vosk/install
 http://yhhuang1966.blogspot.com/2017/08/google-api.html
 
 
-
-example:
-add my item to my todo list
-test task
-show my to do list
-
-create a new note
-this is just a basic note
-mynote
-Bye
